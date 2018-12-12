@@ -12,6 +12,8 @@
     "cron": "^1.6.0",
     "dotenv": "^6.2.0",
     "dropbox": "^4.0.14",
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.3.0",
     "nodemailer": "^4.7.0"
   }
 }
